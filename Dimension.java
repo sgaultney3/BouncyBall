@@ -5,8 +5,8 @@ package com.SamuelGaultney;
  */
 public class Dimension {
 
-    private int xDimension;
-    private int yDimension;
+    private int xDimension = 500;
+    private int yDimension = 500;
 
     public int getxDimension() {
         return xDimension;
